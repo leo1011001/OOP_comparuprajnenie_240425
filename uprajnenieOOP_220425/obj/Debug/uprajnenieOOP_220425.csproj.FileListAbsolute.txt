@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Leon Stanev 11a\uprajnenieOOP_220425\uprajnenieOOP_220425\bin\Debug\uprajnenieOOP_220425.exe.config
+C:\Users\User\Desktop\Leon Stanev 11a\uprajnenieOOP_220425\uprajnenieOOP_220425\bin\Debug\uprajnenieOOP_220425.exe
+C:\Users\User\Desktop\Leon Stanev 11a\uprajnenieOOP_220425\uprajnenieOOP_220425\bin\Debug\uprajnenieOOP_220425.pdb
+C:\Users\User\Desktop\Leon Stanev 11a\uprajnenieOOP_220425\uprajnenieOOP_220425\obj\Debug\uprajnenieOOP_220425.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Leon Stanev 11a\uprajnenieOOP_220425\uprajnenieOOP_220425\obj\Debug\uprajnenieOOP_220425.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Leon Stanev 11a\uprajnenieOOP_220425\uprajnenieOOP_220425\obj\Debug\uprajnenieOOP_220425.exe
+C:\Users\User\Desktop\Leon Stanev 11a\uprajnenieOOP_220425\uprajnenieOOP_220425\obj\Debug\uprajnenieOOP_220425.pdb
